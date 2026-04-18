@@ -1,30 +1,25 @@
 {
-  "name": "John Doe",
+  "name": "Lili Stoyanova",
   "photoUrl": "favicon.svg",
-  "intro": "A brief, compelling introduction about who you are and what you do. Mention your core philosophy, your passion for building digital products, and your drive for creating efficient, high-impact solutions.",
-  "introHtml": "A brief, compelling introduction about who you are and what you do. Mention your core <span class='text-white font-bold'>philosophy</span>, your passion for building digital products, and your drive for creating <span class='text-white font-bold'>efficient</span>, <span class='text-white font-bold'>high-impact</span> solutions.",
-  "webpageTitle": "John Doe",
+  "intro": "Senior Salesforce Developer focused on building clean, reliable, and efficient systems. I approach problems pragmatically—prioritizing clarity, performance, and long-term maintainability over quick fixes. I enjoy turning complex requirements into simple, well-structured solutions that deliver real business value. My work centers on creating high-impact digital products that are both technically solid and easy to evolve.",
+  "introHtml": "Senior Salesforce Developer focused on building clean, reliable, and efficient systems. I approach problems pragmatically—prioritizing clarity, performance, and long-term maintainability over quick fixes. I enjoy turning complex requirements into simple, well-structured solutions that deliver real business value. My work centers on creating high-impact digital products that are both technically solid and easy to evolve.",
+  "webpageTitle": "Lili Stoyanova",
   "resumeUrl": "https://example-files.online-convert.com/document/pdf/example.pdf",
   "socials": [
     {
       "name": "GitHub",
-      "url": "https://github.com/[YOUR_USER_NAME]",
+      "url": "https://github.com/lilistw",
       "icon": "mdi:github"
     },
     {
       "name": "LinkedIn",
-      "url": "https://linkedin.com/in/[YOUR_USER_NAME]",
+      "url": "https://linkedin.com/in/lili-stoyanova",
       "icon": "mdi:linkedin"
     },
     {
       "name": "Email",
-      "url": "mailto:your-mail@example.com",
+      "url": "mailto:lili.st.work@gmail.com",
       "icon": "mdi:email"
-    },
-    {
-      "name": "Whatsapp",
-      "url": "https://wa.me/[YOUR_WHATSAPP_NUMBER]",
-      "icon": "mdi:whatsapp"
     }
   ]
 }
