@@ -1,35 +1,36 @@
 {
   "categories": [
     {
-      "title": "Mobile Development",
+      "title": "Salesforce Platform",
       "skills": [
-        { "name": "Flutter", "level": 3, "icon": "skill-icons:flutter-dark" },
-        { "name": "Dart", "level": 3, "icon": "skill-icons:dart-dark" },
-        { "name": "Kotlin", "level": 1, "icon": "skill-icons:kotlin-dark" }
+        { "name": "Apex", "level": 3, "icon": "mdi:salesforce" },
+        { "name": "LWC", "level": 3, "icon": "mdi:lightning-bolt" },
+        { "name": "VisualForce", "level": 2, "icon": "mdi:file-code" },
+        { "name": "Flows & Process Builder", "level": 2, "icon": "mdi:arrow-decision" }
       ]
     },
     {
-      "title": "Frontend",
+      "title": "Salesforce Commerce Cloud",
       "skills": [
-        { "name": "Astro", "level": 2, "icon": "skill-icons:astro" },
-        { "name": "HTML", "level": 2, "icon": "skill-icons:html" },
-        { "name": "CSS", "level": 2, "icon": "skill-icons:css" },
-        { "name": "Tailwind CSS", "level": 1, "icon": "skill-icons:tailwindcss-dark" }
+        { "name": "SFRA", "level": 3, "icon": "mdi:store" },
+        { "name": "B2C Commerce (Demandware)", "level": 3, "icon": "mdi:shopping" },
+        { "name": "ISML", "level": 2, "icon": "mdi:code-braces" }
       ]
     },
     {
-      "title": "Backend",
+      "title": "Languages",
       "skills": [
-        { "name": "FastAPI", "level": 2, "icon": "skill-icons:fastapi" },
-        { "name": "Python", "level": 2, "icon": "skill-icons:python-dark" },
-        { "name": "Firebase", "level": 3, "icon": "vscode-icons:file-type-firebase" }
+        { "name": "JavaScript", "level": 3, "icon": "skill-icons:javascript" },
+        { "name": "Java", "level": 2, "icon": "skill-icons:java-dark" },
+        { "name": "ActionScript", "level": 2, "icon": "mdi:flash" },
+        { "name": "Python", "level": 1, "icon": "skill-icons:python-dark" }
       ]
     },
     {
-      "title": "Database",
+      "title": "Salesforce AI",
       "skills": [
-        { "name": "SQLite", "level": 3, "icon": "skill-icons:sqlite" },
-        { "name": "PostgreSQL", "level": 2, "icon": "skill-icons:postgresql-dark" }
+        { "name": "Agentforce", "level": 3, "icon": "mdi:robot" },
+        { "name": "Salesforce AI", "level": 2, "icon": "mdi:brain" }
       ]
     }
   ]

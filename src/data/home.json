@@ -1,20 +1,20 @@
 {
   "name": "Lili Stoyanova",
   "photoUrl": "favicon.svg",
-  "intro": "Senior Salesforce Developer focused on building clean, reliable, and efficient systems. I approach problems pragmatically—prioritizing clarity, performance, and long-term maintainability over quick fixes. I enjoy turning complex requirements into simple, well-structured solutions that deliver real business value. My work centers on creating high-impact digital products that are both technically solid and easy to evolve.",
-  "introHtml": "Senior Salesforce Developer focused on building clean, reliable, and efficient systems. I approach problems pragmatically—prioritizing clarity, performance, and long-term maintainability over quick fixes. I enjoy turning complex requirements into simple, well-structured solutions that deliver real business value. My work centers on creating high-impact digital products that are both technically solid and easy to evolve.",
+  "intro": "Experienced Software Developer with a background in Salesforce (Apex, LWC, Sales Cloud, Service Cloud), Salesforce Commerce Cloud (Demandware), Java, and JavaScript. Adept at building and maintaining web applications, integrating systems, and translating business needs into working code. Proven ability to contribute effectively in remote, international team environments. Focused on writing clear, reliable, and maintainable software.",
+  "introHtml": "Experienced Software Developer with a background in Salesforce (Apex, LWC, Sales Cloud, Service Cloud), Salesforce Commerce Cloud (Demandware), Java, and JavaScript. Adept at building and maintaining web applications, integrating systems, and translating business needs into working code. Proven ability to contribute effectively in remote, international team environments. Focused on writing clear, reliable, and maintainable software.",
   "webpageTitle": "Lili Stoyanova",
   "resumeUrl": "https://example-files.online-convert.com/document/pdf/example.pdf",
   "socials": [
     {
-      "name": "GitHub",
-      "url": "https://github.com/lilistw",
-      "icon": "mdi:github"
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/lili-stoyanova",
+      "icon": "mdi:linkedin"
     },
     {
-      "name": "LinkedIn",
-      "url": "https://linkedin.com/in/lili-stoyanova",
-      "icon": "mdi:linkedin"
+      "name": "Trailblazer",
+      "url": "https://www.salesforce.com/trailblazer/lilistwork",
+      "icon": "mdi:salesforce"
     },
     {
       "name": "Email",

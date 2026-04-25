@@ -1,26 +1,42 @@
 [
   {
-    "company": "Demo Company",
-    "role": "Lead Software Engineer",
-    "period": "Oct 2025 - Present",
+    "company": "Montway Bulgaria",
+    "role": "Salesforce Developer",
+    "period": "Feb 2025 - Present",
     "type": "Full time job",
-    "description": "Leading cross-platform mobile development using Flutter and FastAPI. Focused on scalable system design and high-performance data processing.",
-    "skills": ["Leading", "Collaboration"]
+    "description": "Senior Salesforce Developer contributing to a large-scale CRM platform supporting vehicle transport logistics across the U.S. Work focuses on LWC-based UI architecture, Apex services, and scalable data models handling complex entities such as orders, vehicles, and logistics flows. Worked on integrations with payment providers and external APIs, contributing to scalable integration patterns. Collaborating closely with Product Owners and cross-functional teams in an Agile environment using Bitbucket and Jira.",
+    "skills": ["LWC", "Apex", "Salesforce", "Agile", "Jira", "Bitbucket"]
   },
   {
-    "company": "Demo Company",
-    "role": "Full-stack Developer",
-    "period": "Sep 2023 - Sep 2025",
+    "company": "Accenture",
+    "role": "Senior Software Programmer",
+    "period": "Jul 2018 - Feb 2025",
     "type": "Full time job",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["React", "Node.js", "PostgreSQL", "Docker"]
+    "description": "Developing for Salesforce.com Platform and Salesforce Commerce Cloud within multinational agile teams, delivering solutions for a diverse portfolio of clients across various industries. Leveraged Apex, Lightning Components, VisualForce, Process Builder, Flows, Workflow Rules, Batch Jobs, and APIs for customized CRM solutions, call center integrations, ERP integrations, and Salesforce Order Management. Also developed for Salesforce B2C Commerce (Demandware) using SFRA, custom controllers, ISML, and Business Manager, with integrations for payment providers and ratings & reviews platforms.",
+    "skills": ["Apex", "LWC", "VisualForce", "SFRA", "Demandware", "Agile"]
   },
   {
-    "company": "Demo University of Tech",
-    "role": "BSc in Computer Science",
-    "period": "Jun 2020 - Jun 2024",
+    "company": "Djagi",
+    "role": "Software Programmer",
+    "period": "Jul 2013 - Jul 2018",
+    "type": "Full time job",
+    "description": "Full-stack developer working primarily with JavaScript, ActionScript and Java on a browser games website. Played a key role in the successful launch of multiple browser games within a small agile team, while maintaining existing features, addressing user feedback, and improving the overall experience.",
+    "skills": ["JavaScript", "ActionScript", "Java"]
+  },
+  {
+    "company": "University of Plovdiv \"Paisii Hilendarski\"",
+    "role": "Master's degree, Software Technologies",
+    "period": "2015",
     "type": "Student",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["C++", "OOP", "Problem Solving"]
+    "description": "",
+    "skills": []
+  },
+  {
+    "company": "University of Plovdiv \"Paisii Hilendarski\"",
+    "role": "Bachelor's degree, Computer Science",
+    "period": "2013",
+    "type": "Student",
+    "description": "",
+    "skills": []
   }
 ]

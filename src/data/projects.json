@@ -1,20 +1,65 @@
 [
   {
-    "title": "Awesome Website",
-    "description": "A high-performance, SEO-optimized web application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-01.webp", "astro-02.jpeg"],
-    "tech": ["Astro", "Tailwind"],
+    "title": "IBKR Tax Calculator",
+    "description": "A web application for calculating taxes from Interactive Brokers statements (CSV and HTML formats), tailored for Bulgarian users. All data is processed locally in the browser — no server storage, no tracking.",
+    "images": ["placeholder.jpeg"],
+    "tech": ["React", "Vite", "Material-UI", "decimal.js"],
     "platforms": ["web"],
-    "link": "https://astro.build/themes/details/career-portfolio-data-driven-astro-ssg/",
-    "category": "Published Website"
+    "link": "https://github.com/lilistw/lilistw.github.io",
+    "category": "Open Source"
   },
   {
-    "title": "Demo Mobile App",
-    "description": "A high-performance mobile application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-02.jpeg", "#"],
-    "tech": ["Flutter", "Dart", "REST API"],
-    "platforms": ["apple-ios", "android"],
-    "link": "https://github.com/nbakh16/career-portfolio-template",
-    "category": "Hobby"
+    "title": "Djagi.com",
+    "description": "A Bulgarian multiplayer browser games platform featuring 20+ games including Billiards, Belot, Chess, and Texas Hold'em. Worked as a full-stack developer from 2013 to 2018, contributing to the launch of multiple games and maintaining platform features, real-time multiplayer, and overall user experience.",
+    "images": ["placeholder.jpeg"],
+    "tech": ["JavaScript", "ActionScript", "Java"],
+    "platforms": ["web"],
+    "link": "https://djagi.com",
+    "category": "Professional Work"
+  },
+  {
+    "title": "Fashion Retail E-Commerce",
+    "description": "Salesforce B2C Commerce (Demandware) storefront for a global fashion brand. Involved SFRA development, custom controllers, ISML templates, Business Manager configuration, and payment provider integrations.",
+    "images": ["placeholder.jpeg"],
+    "tech": ["Demandware", "SFRA", "JavaScript", "ISML"],
+    "platforms": ["web"],
+    "link": "#",
+    "category": "Client Work"
+  },
+  {
+    "title": "Order Management & Commerce Integration",
+    "description": "Integration between Salesforce Order Management and Salesforce B2C Commerce for a global retail client. Involved Apex development, API design, and data flow coordination across both platforms.",
+    "images": ["placeholder.jpeg"],
+    "tech": ["Salesforce OMS", "Apex", "Demandware", "APIs"],
+    "platforms": ["web"],
+    "link": "#",
+    "category": "Client Work"
+  },
+  {
+    "title": "Automotive Dealership CRM",
+    "description": "Custom Salesforce CRM solution for a major automotive dealership network. Involved Apex development, Lightning Web Components, and custom workflows to support dealership operations and customer management.",
+    "images": ["placeholder.jpeg"],
+    "tech": ["Apex", "LWC", "Salesforce", "Flows"],
+    "platforms": ["web"],
+    "link": "#",
+    "category": "Client Work"
+  },
+  {
+    "title": "Media Group Ad Sales CRM",
+    "description": "Salesforce CRM implementation for the advertising sales division of a major media group. Involved Apex development, Lightning Web Components, and custom workflows to support the ad sales process.",
+    "images": ["placeholder.jpeg"],
+    "tech": ["Apex", "LWC", "Salesforce", "Flows"],
+    "platforms": ["web"],
+    "link": "#",
+    "category": "Client Work"
+  },
+  {
+    "title": "FMCG E-Commerce",
+    "description": "Salesforce B2C Commerce (Demandware) storefront for a global consumer goods company. Included SFRA customization, Business Manager configurations, and third-party integrations.",
+    "images": ["placeholder.jpeg"],
+    "tech": ["Demandware", "SFRA", "JavaScript", "ISML"],
+    "platforms": ["web"],
+    "link": "#",
+    "category": "Client Work"
   }
 ]
