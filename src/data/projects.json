@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "title": "IBKR Tax Calculator",
+    "description": "A web application for calculating taxes from Interactive Brokers statements (CSV and HTML formats), tailored for Bulgarian users. All data is processed locally in the browser — no server storage, no tracking.",
+    "images": ["placeholder.jpeg"],
+    "tech": ["React", "Vite", "Material-UI", "decimal.js"],
+    "platforms": ["web"],
+    "link": "https://github.com/lilistw/lilistw.github.io",
+    "category": "Open Source"
+  }
+]
