@@ -22,7 +22,8 @@
       "skills": [
         { "name": "JavaScript", "level": 3, "icon": "skill-icons:javascript" },
         { "name": "Java", "level": 2, "icon": "skill-icons:java-dark" },
-        { "name": "ActionScript", "level": 2, "icon": "mdi:flash" }
+        { "name": "ActionScript", "level": 2, "icon": "mdi:flash" },
+        { "name": "Python", "level": 1, "icon": "skill-icons:python-dark" }
       ]
     },
     {

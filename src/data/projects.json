@@ -16,5 +16,50 @@
     "platforms": ["web"],
     "link": "https://djagi.com",
     "category": "Professional Work"
+  },
+  {
+    "title": "Fashion Retail E-Commerce",
+    "description": "Salesforce B2C Commerce (Demandware) storefront for a global fashion brand. Involved SFRA development, custom controllers, ISML templates, Business Manager configuration, and payment provider integrations.",
+    "images": ["placeholder.jpeg"],
+    "tech": ["Demandware", "SFRA", "JavaScript", "ISML"],
+    "platforms": ["web"],
+    "link": "#",
+    "category": "Client Work"
+  },
+  {
+    "title": "Order Management & Commerce Integration",
+    "description": "Integration between Salesforce Order Management and Salesforce B2C Commerce for a global retail client. Involved Apex development, API design, and data flow coordination across both platforms.",
+    "images": ["placeholder.jpeg"],
+    "tech": ["Salesforce OMS", "Apex", "Demandware", "APIs"],
+    "platforms": ["web"],
+    "link": "#",
+    "category": "Client Work"
+  },
+  {
+    "title": "Automotive Dealership CRM",
+    "description": "Custom Salesforce CRM solution for a major automotive dealership network. Involved Apex development, Lightning Web Components, and custom workflows to support dealership operations and customer management.",
+    "images": ["placeholder.jpeg"],
+    "tech": ["Apex", "LWC", "Salesforce", "Flows"],
+    "platforms": ["web"],
+    "link": "#",
+    "category": "Client Work"
+  },
+  {
+    "title": "Media Group Ad Sales CRM",
+    "description": "Salesforce CRM implementation for the advertising sales division of a major media group. Involved Apex development, Lightning Web Components, and custom workflows to support the ad sales process.",
+    "images": ["placeholder.jpeg"],
+    "tech": ["Apex", "LWC", "Salesforce", "Flows"],
+    "platforms": ["web"],
+    "link": "#",
+    "category": "Client Work"
+  },
+  {
+    "title": "FMCG E-Commerce",
+    "description": "Salesforce B2C Commerce (Demandware) storefront for a global consumer goods company. Included SFRA customization, Business Manager configurations, and third-party integrations.",
+    "images": ["placeholder.jpeg"],
+    "tech": ["Demandware", "SFRA", "JavaScript", "ISML"],
+    "platforms": ["web"],
+    "link": "#",
+    "category": "Client Work"
   }
 ]
