@@ -1,0 +1,7 @@
+[
+  { "name": "Salesforce Certified Agentforce Specialist", "icon": "mdi:robot" },
+  { "name": "Salesforce Certified JavaScript Developer I", "icon": "skill-icons:javascript" },
+  { "name": "Salesforce Certified Platform Developer I", "icon": "mdi:salesforce" },
+  { "name": "Salesforce Certified Platform Developer II", "icon": "mdi:salesforce" },
+  { "name": "Salesforce Certified B2C Commerce Developer", "icon": "mdi:shopping" }
+]
