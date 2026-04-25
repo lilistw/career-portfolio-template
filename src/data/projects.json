@@ -7,5 +7,14 @@
     "platforms": ["web"],
     "link": "https://github.com/lilistw/lilistw.github.io",
     "category": "Open Source"
+  },
+  {
+    "title": "Djagi.com",
+    "description": "A Bulgarian multiplayer browser games platform featuring 20+ games including Billiards, Belot, Chess, and Texas Hold'em. Worked as a full-stack developer from 2013 to 2018, contributing to the launch of multiple games and maintaining platform features, real-time multiplayer, and overall user experience.",
+    "images": ["placeholder.jpeg"],
+    "tech": ["JavaScript", "ActionScript", "Java"],
+    "platforms": ["web"],
+    "link": "https://djagi.com",
+    "category": "Professional Work"
   }
 ]
